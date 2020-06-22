@@ -1,0 +1,2 @@
+/usr/bin/ar qc libserver_base.a  CMakeFiles/server_base.dir/base/CountDownLatch.cpp.o CMakeFiles/server_base.dir/base/Condition.cpp.o CMakeFiles/server_base.dir/base/CurrentThread.cpp.o CMakeFiles/server_base.dir/base/Thread.cpp.o CMakeFiles/server_base.dir/base/Exception.cpp.o CMakeFiles/server_base.dir/base/Logging.cpp.o CMakeFiles/server_base.dir/base/LogStream.cpp.o CMakeFiles/server_base.dir/base/Timestamp.cpp.o CMakeFiles/server_base.dir/base/TimeZone.cpp.o CMakeFiles/server_base.dir/base/Date.cpp.o
+/usr/bin/ranlib libserver_base.a

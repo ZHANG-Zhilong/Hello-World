@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/test08.dir/test08.cpp.o  -o test08  ../net/libserver_net.a ../base/libserver_base.a -lpthread -lrt 
