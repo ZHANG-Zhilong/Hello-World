@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /tmp/tmp.5rawK3RpZ8
-BuildDirectory: /tmp/tmp.5rawK3RpZ8/cmake-build-debug
+SourceDirectory: /tmp/tmp.5vGBuTlMNx
+BuildDirectory: /tmp/tmp.5vGBuTlMNx/cmake-build-debug
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/local/clion-2020.1.1/bin/cmake/linux/bin/cmake" "/tmp/tmp.5rawK3RpZ8"
+ConfigureCommand: "/usr/local/clion-2020.1.1/bin/cmake/linux/bin/cmake" "/tmp/tmp.5vGBuTlMNx"
 MakeCommand: /usr/local/clion-2020.1.1/bin/cmake/linux/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
